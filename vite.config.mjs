@@ -40,6 +40,12 @@ staticTargets.push({
   dest: "."
 });
 
+// Copy custom JavaScript module
+staticTargets.push({
+  src: path.resolve(sourceRoot, "scripts"),
+  dest: "."
+});
+
 function devRouteAndAssetParityPlugin() {
   const extensionlessPageRoutes = new Set([
     "/projects-clients",
