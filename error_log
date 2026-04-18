@@ -1,0 +1,18 @@
+[13-Feb-2026 11:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/rpbucrur/public_html/api.php:109
+Stack trace:
+#0 /home/rpbucrur/public_html/api.php(337): sendFormSummaryByEmail(Array, Array, Array)
+#1 /home/rpbucrur/public_html/api.php(449): handleFormSubmission()
+#2 {main}
+  thrown in /home/rpbucrur/public_html/api.php on line 109
+[13-Feb-2026 11:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/rpbucrur/public_html/api.php:109
+Stack trace:
+#0 /home/rpbucrur/public_html/api.php(337): sendFormSummaryByEmail(Array, Array, Array)
+#1 /home/rpbucrur/public_html/api.php(449): handleFormSubmission()
+#2 {main}
+  thrown in /home/rpbucrur/public_html/api.php on line 109
+[13-Feb-2026 11:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/rpbucrur/public_html/api.php:109
+Stack trace:
+#0 /home/rpbucrur/public_html/api.php(337): sendFormSummaryByEmail(Array, Array, Array)
+#1 /home/rpbucrur/public_html/api.php(449): handleFormSubmission()
+#2 {main}
+  thrown in /home/rpbucrur/public_html/api.php on line 109

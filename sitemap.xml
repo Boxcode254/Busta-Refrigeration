@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.bustarefrigeration.co.ke/</loc>
+		<lastmod>2026-04-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://www.bustarefrigeration.co.ke/projects-clients</loc>
+		<lastmod>2026-04-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.bustarefrigeration.co.ke/legal-notice</loc>
+		<lastmod>2026-04-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.bustarefrigeration.co.ke/privacy</loc>
+		<lastmod>2026-04-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.bustarefrigeration.co.ke/spares-components</loc>
+		<lastmod>2026-04-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.80</priority>
+	</url>
+</urlset>

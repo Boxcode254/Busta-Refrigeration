@@ -1,0 +1,12 @@
+generated_at_utc: 2026-04-18T14:30:20.143034+00:00
+project_root: /home/natasha/Documents/MY PROJECTS/Website Projects/Busta Refrigeration - Revamped
+images_dir: /home/natasha/Documents/MY PROJECTS/Website Projects/Busta Refrigeration - Revamped/images
+threshold_kb: 500
+total_files: 2906
+total_bytes: 142542164
+referenced_paths: 588
+unreferenced_paths: 2366
+duplicate_groups: 675
+safe_delete_candidates: 0
+orphan_ids: 9
+mode: dry-run

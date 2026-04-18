@@ -1,0 +1,167 @@
+/* ============================================================
+   BUSTA SERVICES — 6-card grid section
+   ============================================================ */
+
+.busta-services {
+  background: var(--clr-dark);
+  padding: 80px 0 88px;
+}
+
+.busta-services-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Header */
+.busta-services-header {
+  text-align: center;
+  margin-bottom: 56px;
+}
+
+.busta-services-overline {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--clr-yellow);
+  margin: 0 0 12px;
+}
+
+.busta-services-heading {
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+  line-height: 1.15;
+}
+
+/* Grid */
+.busta-services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 28px;
+}
+
+/* Card shell */
+.busta-svc-card {
+  background: var(--clr-dark-alt);
+  border: 1px solid var(--clr-dark-border);
+  border-top: 3px solid transparent;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: border-top-color 0.3s ease, background 0.3s ease,
+    box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.busta-svc-card:hover {
+  border-top-color: var(--clr-yellow);
+  background: #1f252c;
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-4px);
+}
+
+/* Image strip */
+.busta-svc-strip {
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.busta-svc-strip img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.busta-svc-card:hover .busta-svc-strip img {
+  transform: scale(1.04);
+}
+
+/* Card body */
+.busta-svc-card-body {
+  padding: 32px 32px 36px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Icon box */
+.busta-svc-icon {
+  width: 64px;
+  height: 64px;
+  background: rgba(251, 190, 26, 0.1);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  color: var(--clr-yellow);
+  transition: background 0.3s ease;
+  flex-shrink: 0;
+}
+
+.busta-svc-card:hover .busta-svc-icon {
+  background: rgba(251, 190, 26, 0.18);
+}
+
+.busta-svc-icon svg {
+  display: block;
+}
+
+/* Title */
+.busta-svc-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 0.5px;
+  margin: 0 0 14px;
+  line-height: 1.3;
+}
+
+/* Description */
+.busta-svc-desc {
+  font-size: 1rem;
+  font-weight: 300;
+  color: var(--clr-muted);
+  line-height: 1.7;
+  margin: 0 0 20px;
+  flex: 1;
+}
+
+/* Read more link */
+.busta-svc-link {
+  display: inline-block;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--clr-yellow);
+  text-decoration: none;
+  margin-top: auto;
+  transition: text-decoration-color 0.2s ease;
+}
+
+.busta-svc-link:hover {
+  text-decoration: underline;
+}
+
+/* Mobile: single column below 640px */
+@media (max-width: 640px) {
+  .busta-services {
+    padding: 56px 0 64px;
+  }
+
+  .busta-services-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .busta-services-header {
+    margin-bottom: 40px;
+  }
+}

@@ -1,0 +1,110 @@
+.whatsapp-btn-wrap {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 9999;
+}
+
+.whatsapp-btn {
+  position: relative;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: #25D366;
+  box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  animation: whatsapp-pulse 2.5s ease-out infinite;
+  transition: transform 0.2s ease;
+}
+
+.whatsapp-btn:hover {
+  animation: none;
+  transform: scale(1.08);
+}
+
+.whatsapp-btn:focus-visible {
+  outline: 2px solid #101316;
+  outline-offset: 3px;
+}
+
+.whatsapp-btn svg {
+  width: 30px;
+  height: 30px;
+  fill: #ffffff;
+}
+
+.whatsapp-tooltip {
+  position: absolute;
+  right: calc(100% + 12px);
+  top: 50%;
+  transform: translateY(-50%);
+  background: #101316;
+  color: #ffffff;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-family: Poppins, sans-serif;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+
+.whatsapp-tooltip::after {
+  content: "";
+  position: absolute;
+  right: -7px;
+  top: 50%;
+  transform: translateY(-50%);
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-left: 7px solid #101316;
+}
+
+.whatsapp-btn:hover .whatsapp-tooltip,
+.whatsapp-btn:focus-visible .whatsapp-tooltip {
+  opacity: 1;
+  visibility: visible;
+}
+
+@keyframes whatsapp-pulse {
+  0% {
+    box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4), 0 0 0 0 rgba(37, 211, 102, 0.5);
+  }
+  70% {
+    box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4), 0 0 0 14px rgba(37, 211, 102, 0);
+  }
+  100% {
+    box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4), 0 0 0 0 rgba(37, 211, 102, 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .whatsapp-btn {
+    animation: none;
+  }
+}
+
+/* Keep WhatsApp above back-to-top when both are present on a page. */
+body:has(.back-to-top-button-icon) .whatsapp-btn-wrap {
+  bottom: 88px;
+}
+
+@media (max-width: 768px) {
+  .whatsapp-btn-wrap {
+    right: 16px;
+    bottom: 16px;
+  }
+
+  body:has(.back-to-top-button-icon) .whatsapp-btn-wrap {
+    bottom: 88px;
+  }
+
+  .whatsapp-tooltip {
+    display: none;
+  }
+}

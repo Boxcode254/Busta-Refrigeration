@@ -1,0 +1,8 @@
+{
+  "name": "busta/refrigeration-website",
+  "description": "Security-hardened form handler dependencies",
+  "require": {
+    "phpmailer/phpmailer": "^6.9",
+    "vlucas/phpdotenv": "^5.5"
+  }
+}

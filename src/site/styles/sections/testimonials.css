@@ -1,0 +1,237 @@
+/* =============================================
+   TESTIMONIALS SECTION — Prompt 8
+   .busta-testimonials
+   ============================================= */
+
+.busta-testimonials {
+  background: var(--clr-dark);
+  padding: var(--section-pad-y) 0;
+  overflow: hidden;
+}
+
+.busta-testimonials-inner {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--container-pad);
+}
+
+/* ─── Section header ─────────────────────────────────────────── */
+.busta-testimonials-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.busta-testimonials-overline {
+  font-size: 0.75rem;
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--clr-yellow);
+  margin: 0 0 0.5rem;
+}
+
+.busta-testimonials-heading {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: var(--fw-black);
+  color: var(--clr-white);
+  margin: 0 0 0.75rem;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+}
+
+.busta-testimonials-subtitle {
+  color: var(--clr-muted);
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* ─── Slider track ───────────────────────────────────────────── */
+.busta-testimonials-slider {
+  position: relative;
+}
+
+.busta-testimonials-track {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+
+.busta-testimonials-slide {
+  grid-area: 1 / 1;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.busta-testimonials-slide.active {
+  opacity: 1;
+  pointer-events: auto;
+  visibility: visible;
+}
+
+/* ─── Card ───────────────────────────────────────────────────── */
+.busta-testimonials-card {
+  background: var(--clr-dark-alt);
+  border: 1px solid var(--clr-dark-border);
+  border-radius: var(--radius-md);
+  padding: 2.5rem;
+  max-width: 780px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Quote icon */
+.busta-testimonials-quote-icon {
+  display: block;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 0 auto 1.25rem;
+  color: var(--clr-yellow);
+}
+
+/* Star rating */
+.busta-testimonials-stars {
+  display: flex;
+  justify-content: center;
+  gap: 0.25rem;
+  margin-bottom: 1.25rem;
+  color: var(--clr-yellow);
+}
+
+.busta-testimonials-stars svg {
+  width: 1.25rem;
+  height: 1.25rem;
+  fill: currentColor;
+}
+
+/* Body text */
+.busta-testimonials-body {
+  font-size: clamp(1rem, 1.5vw, 1.125rem);
+  color: var(--clr-white);
+  line-height: 1.75;
+  margin: 0 0 1.75rem;
+  font-style: italic;
+}
+
+/* Author row */
+.busta-testimonials-author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.875rem;
+}
+
+.busta-testimonials-avatar {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  background: var(--clr-yellow);
+  color: var(--clr-dark);
+  font-size: 1rem;
+  font-weight: var(--fw-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.busta-testimonials-name {
+  font-size: 1rem;
+  font-weight: var(--fw-bold);
+  color: var(--clr-white);
+  margin: 0;
+  line-height: 1.3;
+}
+
+.busta-testimonials-role {
+  font-size: 0.875rem;
+  color: var(--clr-muted);
+  margin: 0;
+}
+
+/* ─── Controls ───────────────────────────────────────────────── */
+.busta-testimonials-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.busta-testimonials-btn {
+  background: transparent;
+  border: 2px solid var(--clr-dark-border);
+  border-radius: 50%;
+  width: 2.75rem;
+  height: 2.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--clr-white);
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.busta-testimonials-btn:hover,
+.busta-testimonials-btn:focus-visible {
+  background: var(--clr-yellow);
+  border-color: var(--clr-yellow);
+  color: var(--clr-dark);
+  outline: none;
+}
+
+.busta-testimonials-btn:focus-visible {
+  outline: 2px solid var(--clr-yellow);
+  outline-offset: 3px;
+}
+
+.busta-testimonials-btn svg {
+  width: 1.125rem;
+  height: 1.125rem;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 2.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* ─── Dot navigation ─────────────────────────────────────────── */
+.busta-testimonials-dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.busta-testimonials-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--clr-dark-border);
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.busta-testimonials-dot.active {
+  background: var(--clr-yellow);
+  transform: scale(1.4);
+}
+
+.busta-testimonials-dot:focus-visible {
+  outline: 2px solid var(--clr-yellow);
+  outline-offset: 3px;
+}
+
+/* ─── Responsive ─────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .busta-testimonials-card {
+    padding: 1.75rem 1.25rem;
+  }
+
+  .busta-testimonials-body {
+    font-size: 1rem;
+  }
+}

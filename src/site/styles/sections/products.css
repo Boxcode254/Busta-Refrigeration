@@ -1,0 +1,279 @@
+/* ============================================================
+   PRODUCTS / SPARES CATALOG  –  Busta Refrigeration
+   Applies to: /spares-components
+   ============================================================ */
+
+/* ── Hero-mini ───────────────────────────────────────────── */
+.busta-products-hero {
+  position: relative;
+  height: 260px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--clr-dark, #0b1120);
+}
+
+@media (max-width: 600px) {
+  .busta-products-hero {
+    height: 180px;
+  }
+}
+
+.busta-products-hero__bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.35;
+}
+
+.busta-products-hero__content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 0 1.25rem;
+}
+
+.busta-products-hero__eyebrow {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--clr-yellow, #f5c542);
+  margin-bottom: 0.5rem;
+}
+
+.busta-products-hero__title {
+  margin: 0;
+  font-size: clamp(1.6rem, 4vw, 2.6rem);
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.15;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.busta-products-hero__title span {
+  color: var(--clr-yellow, #f5c542);
+}
+
+/* ── Filter bar ──────────────────────────────────────────── */
+.busta-catalog-filter {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--clr-dark, #0b1120);
+  border-bottom: 1px solid var(--clr-dark-border, rgba(255,255,255,0.08));
+}
+
+.busta-catalog-filter__inner {
+  display: flex;
+  gap: 0.25rem;
+  overflow-x: auto;
+  padding: 0.625rem 1.25rem;
+  max-width: 1280px;
+  margin: 0 auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.busta-catalog-filter__inner::-webkit-scrollbar {
+  display: none;
+}
+
+.busta-gallery-tab {
+  flex-shrink: 0;
+  padding: 0.45rem 1.1rem;
+  border: 1px solid var(--clr-dark-border, rgba(255,255,255,0.15));
+  border-radius: 999px;
+  background: transparent;
+  color: rgba(255,255,255,0.65);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.busta-gallery-tab:hover,
+.busta-gallery-tab.active {
+  background: var(--clr-yellow, #f5c542);
+  border-color: var(--clr-yellow, #f5c542);
+  color: #0b1120;
+}
+
+/* ── Catalog body ────────────────────────────────────────── */
+.busta-catalog-body {
+  background: var(--clr-dark-alt, #111827);
+  padding: 2.5rem 1.25rem 3.5rem;
+}
+
+.busta-catalog-body__inner {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* ── Category subheader ──────────────────────────────────── */
+.busta-catalog-group {
+  margin-bottom: 2rem;
+}
+
+.busta-catalog-group__heading {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--clr-yellow, #f5c542);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--clr-dark-border, rgba(255,255,255,0.08));
+  margin-bottom: 1.25rem;
+}
+
+/* ── Product grid ────────────────────────────────────────── */
+.busta-product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.1rem;
+}
+
+/* ── Product card ────────────────────────────────────────── */
+.busta-gallery-card {
+  background: var(--clr-dark, #0b1120);
+  border: 1px solid var(--clr-dark-border, rgba(255,255,255,0.07));
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.busta-gallery-card:hover {
+  border-color: var(--clr-yellow, #f5c542);
+  transform: translateY(-3px);
+}
+
+.busta-gallery-card.hidden {
+  display: none;
+}
+
+.busta-gallery-card__img-wrap {
+  aspect-ratio: 1;
+  overflow: hidden;
+  background: #1a2133;
+}
+
+.busta-gallery-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s;
+}
+
+.busta-gallery-card:hover .busta-gallery-card__img {
+  transform: scale(1.04);
+}
+
+.busta-gallery-card__body {
+  padding: 0.9rem 1rem 1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.busta-gallery-card__name {
+  margin: 0;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #fff;
+  line-height: 1.35;
+}
+
+.busta-gallery-card__badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--clr-yellow, #f5c542);
+  border: 1px solid var(--clr-yellow, #f5c542);
+  border-radius: 999px;
+  padding: 0.18rem 0.55rem;
+  width: fit-content;
+}
+
+.busta-gallery-card__cta {
+  margin-top: auto;
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--clr-yellow, #f5c542);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+}
+
+.busta-gallery-card__cta:hover {
+  text-decoration: underline;
+}
+
+/* ── Enquiry CTA strip ───────────────────────────────────── */
+.busta-products-cta {
+  background: var(--clr-dark, #0b1120);
+  border-top: 1px solid var(--clr-dark-border, rgba(255,255,255,0.08));
+  padding: 2.5rem 1.25rem;
+  text-align: center;
+}
+
+.busta-products-cta__inner {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.busta-products-cta__heading {
+  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+  font-weight: 700;
+  color: #fff;
+  margin: 0 0 0.5rem;
+}
+
+.busta-products-cta__sub {
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.6);
+  margin: 0 0 1.5rem;
+}
+
+.busta-products-cta__btn {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background: var(--clr-yellow, #f5c542);
+  color: #0b1120;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background 0.2s, opacity 0.2s;
+}
+
+.busta-products-cta__btn:hover {
+  opacity: 0.88;
+}
+
+/* ── Mobile overrides ────────────────────────────────────── */
+@media (max-width: 480px) {
+  .busta-product-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+
+  .busta-catalog-body {
+    padding: 1.5rem 0.875rem 2.5rem;
+  }
+}

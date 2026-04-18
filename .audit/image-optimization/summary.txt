@@ -1,0 +1,8 @@
+generated_at_utc: 2026-04-17T20:11:14.925Z
+source_images_processed: 326
+unique_images_in_manifest: 77
+jpeg_quality: 85
+webp_quality: 80
+responsive_widths: 576,960,1200
+image_base_url: https://media.bustarefrigeration.co.ke
+html_updated: yes

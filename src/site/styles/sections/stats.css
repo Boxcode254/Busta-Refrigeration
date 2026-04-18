@@ -1,0 +1,97 @@
+/* ============================================================
+   Stats Counter Bar — busta-stats
+   ============================================================ */
+
+.busta-stats {
+  background-color: var(--clr-dark-alt);
+  border-top: 3px solid var(--clr-yellow);
+  padding: 48px var(--container-pad);
+  width: 100%;
+}
+
+.busta-stats-inner {
+  max-width: var(--container-max);
+  margin-inline: auto;
+}
+
+.busta-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Vertical dividers between items, not after the last */
+.busta-stats-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding-inline: 24px;
+  text-align: center;
+  position: relative;
+}
+
+.busta-stats-item + .busta-stats-item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 10%;
+  height: 80%;
+  width: 1px;
+  background-color: var(--clr-dark-border);
+}
+
+/* Number */
+.busta-stats-number {
+  display: block;
+  font-family: var(--font-primary);
+  font-size: clamp(2.8rem, 5vw, 4rem);
+  font-weight: var(--fw-black);
+  line-height: 1;
+  color: var(--clr-yellow);
+  letter-spacing: -0.02em;
+}
+
+/* Label */
+.busta-stats-label {
+  display: block;
+  font-family: var(--font-primary);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--clr-muted);
+}
+
+/* ── Tablet / Mobile: 2-column grid ────────────────────────── */
+@media (max-width: 767px) {
+  .busta-stats {
+    padding: 40px var(--container-pad);
+  }
+
+  .busta-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 32px;
+  }
+
+  /* Remove left-edge dividers on column 1 */
+  .busta-stats-item:nth-child(2n + 1)::before {
+    display: none;
+  }
+
+  /* Add bottom border below top row */
+  .busta-stats-item:nth-child(1),
+  .busta-stats-item:nth-child(2) {
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--clr-dark-border);
+  }
+}
+
+/* ── Reduced motion ─────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .busta-stats-number {
+    transition: none;
+  }
+}

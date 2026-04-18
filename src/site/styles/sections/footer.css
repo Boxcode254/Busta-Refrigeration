@@ -1,0 +1,257 @@
+/* ============================================================
+   BUSTA FOOTER
+   Dark multi-column footer with brand, services, links, contact
+   ============================================================ */
+
+/* ---------- Wrapper ---------- */
+.busta-footer {
+  background: #0a0d10;
+  padding-top: 70px;
+  padding-bottom: 0;
+  color: var(--clr-muted, #9aa3ad);
+  font-size: 0.9rem;
+  line-height: 1.8;
+  font-weight: 300;
+}
+
+/* ---------- Grid ---------- */
+.busta-footer__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px 60px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+
+/* ---------- Column headings ---------- */
+.busta-footer__heading {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--clr-yellow, #fbbe1a);
+  margin: 0 0 20px;
+}
+
+/* ---------- Col 1 — Brand ---------- */
+.busta-footer__brand-logo {
+  display: block;
+  height: 50px;
+  width: auto;
+  margin-bottom: 20px;
+  object-fit: contain;
+}
+
+.busta-footer__brand-desc {
+  margin: 0 0 24px;
+  font-size: 0.9rem;
+  font-weight: 300;
+  line-height: 1.8;
+  color: var(--clr-muted, #9aa3ad);
+}
+
+/* Social icon row */
+.busta-footer__socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.busta-footer__social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--clr-dark-alt, #1a1f24);
+  border: 1px solid var(--clr-dark-border, #252b32);
+  color: var(--clr-yellow, #fbbe1a);
+  text-decoration: none;
+  transition: background var(--transition-fast, 0.2s ease),
+              color var(--transition-fast, 0.2s ease),
+              border-color var(--transition-fast, 0.2s ease);
+  flex-shrink: 0;
+}
+
+.busta-footer__social-link svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  display: block;
+}
+
+.busta-footer__social-link:hover,
+.busta-footer__social-link:focus-visible {
+  background: var(--clr-yellow, #fbbe1a);
+  color: #0a0d10;
+  border-color: var(--clr-yellow, #fbbe1a);
+  outline: none;
+}
+
+/* ---------- Col 2 & 3 — Link lists ---------- */
+.busta-footer__links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.busta-footer__links li + li {
+  margin-top: 6px;
+}
+
+.busta-footer__links a {
+  color: var(--clr-muted, #9aa3ad);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 300;
+  transition: color var(--transition-fast, 0.2s ease),
+              padding-left var(--transition-fast, 0.2s ease);
+  display: inline-block;
+}
+
+.busta-footer__links a::before {
+  content: '→ ';
+  opacity: 0;
+  transition: opacity var(--transition-fast, 0.2s ease);
+}
+
+.busta-footer__links a:hover,
+.busta-footer__links a:focus-visible {
+  color: var(--clr-yellow, #fbbe1a);
+  padding-left: 6px;
+  outline: none;
+}
+
+.busta-footer__links a:hover::before,
+.busta-footer__links a:focus-visible::before {
+  opacity: 1;
+}
+
+/* ---------- Col 4 — Contact ---------- */
+.busta-footer__contact-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.busta-footer__contact-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 14px;
+  font-size: 0.9rem;
+  font-weight: 300;
+  line-height: 1.6;
+  color: var(--clr-muted, #9aa3ad);
+}
+
+.busta-footer__contact-icon {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  fill: var(--clr-yellow, #fbbe1a);
+  margin-top: 3px;
+}
+
+.busta-footer__contact-list a {
+  color: var(--clr-muted, #9aa3ad);
+  text-decoration: none;
+  transition: color var(--transition-fast, 0.2s ease);
+}
+
+.busta-footer__contact-list a:hover,
+.busta-footer__contact-list a:focus-visible {
+  color: var(--clr-yellow, #fbbe1a);
+  outline: none;
+}
+
+.busta-footer__maps-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--clr-yellow, #fbbe1a) !important;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  transition: opacity var(--transition-fast, 0.2s ease);
+}
+
+.busta-footer__maps-link:hover,
+.busta-footer__maps-link:focus-visible {
+  opacity: 0.8;
+  outline: none;
+}
+
+/* ---------- Bottom bar ---------- */
+.busta-footer__bottom {
+  border-top: 1px solid var(--clr-dark-border, #252b32);
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Extend the bar background edge-to-edge */
+.busta-footer__bottom-bar-wrap {
+  background: #0a0d10;
+  border-top: 1px solid var(--clr-dark-border, #252b32);
+}
+
+.busta-footer__bottom-bar-wrap .busta-footer__bottom {
+  border-top: none;
+}
+
+.busta-footer__copyright,
+.busta-footer__policy-links {
+  font-size: 0.8rem;
+  color: #5a6370;
+  margin: 0;
+}
+
+.busta-footer__policy-links {
+  display: flex;
+  gap: 20px;
+}
+
+.busta-footer__policy-links a {
+  color: #5a6370;
+  text-decoration: none;
+  transition: color var(--transition-fast, 0.2s ease);
+}
+
+.busta-footer__policy-links a:hover,
+.busta-footer__policy-links a:focus-visible {
+  color: var(--clr-muted, #9aa3ad);
+  outline: none;
+}
+
+/* ---------- Responsive: tablet 2-col ---------- */
+@media (max-width: 1024px) {
+  .busta-footer__inner {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ---------- Responsive: mobile 1-col ---------- */
+@media (max-width: 600px) {
+  .busta-footer__inner {
+    grid-template-columns: 1fr;
+    padding-bottom: 40px;
+  }
+
+  .busta-footer__bottom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

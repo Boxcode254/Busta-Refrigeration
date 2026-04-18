@@ -1,0 +1,250 @@
+/* =============================================
+   PROJECTS GALLERY SECTION — Prompt 7
+   .busta-gallery  (homepage section wrapper)
+   .busta-portfolio-gallery  (projects page, embedded)
+   ============================================= */
+
+/* ─── Homepage section wrapper ─────────────────────────────── */
+.busta-gallery {
+  background: var(--clr-dark-alt);
+  padding: var(--section-pad-y) 0;
+}
+
+.busta-gallery-inner {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--container-pad);
+}
+
+/* ─── Section header ─────────────────────────────────────────── */
+.busta-gallery-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.busta-gallery-overline {
+  font-size: 0.75rem;
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--clr-yellow);
+  margin: 0 0 0.5rem;
+}
+
+.busta-gallery-heading {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: var(--fw-black);
+  color: var(--clr-white);
+  margin: 0 0 0.75rem;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+}
+
+.busta-gallery-subtitle {
+  color: var(--clr-muted);
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* ─── Filter tabs ─────────────────────────────────────────────── */
+.busta-gallery-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.busta-gallery-tab {
+  background: transparent;
+  border: 2px solid var(--clr-dark-border);
+  color: var(--clr-white);
+  font-size: 0.72rem;
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.45rem 1.2rem;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  transition: border-color var(--transition-fast), background var(--transition-fast), color var(--transition-fast);
+  font-family: var(--font-primary);
+}
+
+.busta-gallery-tab:hover {
+  border-color: var(--clr-yellow);
+}
+
+.busta-gallery-tab.active,
+.busta-gallery-tab[aria-selected="true"] {
+  background: var(--clr-yellow);
+  border-color: var(--clr-yellow);
+  color: var(--clr-dark);
+}
+
+/* ─── Card grid ───────────────────────────────────────────────── */
+.busta-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 20px;
+}
+
+/* ─── Individual card ─────────────────────────────────────────── */
+.busta-gallery-card {
+  position: relative;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  height: 280px;
+  background: var(--clr-dark);
+  isolation: isolate;
+}
+
+.busta-gallery-card.hidden {
+  display: none;
+}
+
+.busta-gallery-card picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.busta-gallery-card picture img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--transition-slow);
+}
+
+.busta-gallery-card:hover picture img {
+  transform: scale(1.05);
+}
+
+/* ─── Hover overlay ───────────────────────────────────────────── */
+.busta-gallery-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(16, 19, 22, 0.92) 0%,
+    rgba(16, 19, 22, 0.45) 50%,
+    transparent 100%
+  );
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.25rem;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity var(--transition-base), transform var(--transition-base);
+}
+
+.busta-gallery-card:hover .busta-gallery-overlay {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.busta-gallery-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--clr-yellow);
+  background: rgba(251, 190, 26, 0.12);
+  border: 1px solid rgba(251, 190, 26, 0.4);
+  border-radius: var(--radius-pill);
+  padding: 0.2rem 0.65rem;
+  margin-bottom: 0.5rem;
+  align-self: flex-start;
+}
+
+.busta-gallery-card-title {
+  font-size: 0.95rem;
+  font-weight: var(--fw-bold);
+  color: var(--clr-white);
+  margin: 0 0 0.3rem;
+  line-height: 1.3;
+  font-family: var(--font-primary);
+}
+
+.busta-gallery-card-desc {
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.68);
+  margin: 0 0 0.8rem;
+  line-height: 1.45;
+}
+
+.busta-gallery-cta {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--clr-dark);
+  background: var(--clr-yellow);
+  padding: 0.35rem 0.95rem;
+  border-radius: var(--radius-pill);
+  text-decoration: none;
+  align-self: flex-start;
+  transition: opacity var(--transition-fast);
+}
+
+.busta-gallery-cta:hover {
+  opacity: 0.85;
+}
+
+/* ─── Homepage bottom CTA ─────────────────────────────────────── */
+.busta-gallery-cta-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5rem;
+}
+
+.busta-gallery-btn-all {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--clr-white);
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  padding: 0.75rem 2.25rem;
+  border-radius: var(--radius-pill);
+  text-decoration: none;
+  transition: border-color var(--transition-fast), color var(--transition-fast);
+}
+
+.busta-gallery-btn-all:hover {
+  border-color: var(--clr-yellow);
+  color: var(--clr-yellow);
+}
+
+/* ─── Projects page embedded portfolio ────────────────────────── */
+.busta-portfolio-gallery {
+  padding-top: var(--space-xl);
+}
+
+.busta-portfolio-gallery .busta-gallery-tabs {
+  justify-content: flex-start;
+}
+
+/* ─── Responsive ──────────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .busta-gallery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .busta-gallery-card {
+    height: 220px;
+  }
+
+  .busta-gallery-tabs {
+    gap: 0.4rem;
+  }
+
+  .busta-gallery-tab {
+    font-size: 0.68rem;
+    padding: 0.4rem 0.9rem;
+  }
+}

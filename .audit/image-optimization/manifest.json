@@ -1,0 +1,3357 @@
+{
+  "generatedAtUtc": "2026-04-17T20:08:30.946Z",
+  "sourceDir": "images",
+  "outputDir": "images/optimized",
+  "quality": {
+    "jpeg": 85,
+    "webp": 80
+  },
+  "imageBaseUrl": "https://media.bustarefrigeration.co.ke",
+  "widths": [
+    576,
+    960,
+    1200
+  ],
+  "images": {
+    "12499474/3-bay-right-1.jpg": {
+      "key": "12499474/3-bay-right-1.jpg",
+      "imageId": "12499474",
+      "fileName": "3-bay-right-1.jpg",
+      "source": "/1920/12499474/3-bay-right-1.jpg",
+      "width": 1000,
+      "height": 871,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-960.jpg"
+        },
+        {
+          "width": 1000,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-1000.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-960.webp"
+        },
+        {
+          "width": 1000,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-1000.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499474/3-bay-right-1-1200.webp"
+        }
+      ]
+    },
+    "12509378/co.png": {
+      "key": "12509378/co.png",
+      "imageId": "12509378",
+      "fileName": "co.png",
+      "source": "/1920/12509378/co.png",
+      "width": 1024,
+      "height": 725,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-960.jpg"
+        },
+        {
+          "width": 1024,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-1024.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-960.webp"
+        },
+        {
+          "width": 1024,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-1024.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509378/co-1200.webp"
+        }
+      ]
+    },
+    "13963463/blue-star-cold-rooms.jpeg": {
+      "key": "13963463/blue-star-cold-rooms.jpeg",
+      "imageId": "13963463",
+      "fileName": "blue-star-cold-rooms.jpeg",
+      "source": "/1920/13963463/blue-star-cold-rooms.jpeg",
+      "width": 1024,
+      "height": 768,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-960.jpg"
+        },
+        {
+          "width": 1024,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-1024.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-960.webp"
+        },
+        {
+          "width": 1024,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-1024.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963463/blue-star-cold-rooms-1200.webp"
+        }
+      ]
+    },
+    "12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy.jpeg": {
+      "key": "12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy.jpeg",
+      "imageId": "12493760",
+      "fileName": "WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy.jpeg",
+      "source": "/800x800,720x720+179+0/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy.jpeg",
+      "width": 800,
+      "height": 800,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-576.jpg"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-800.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-576.webp"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-800.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493760/WhatsAppImage2024-10-10at3.45.31PM-Copy3-Copy-1200.webp"
+        }
+      ]
+    },
+    "12499471/morgue-freezer.jpg": {
+      "key": "12499471/morgue-freezer.jpg",
+      "imageId": "12499471",
+      "fileName": "morgue-freezer.jpg",
+      "source": "/976/12499471/morgue-freezer.jpg",
+      "width": 976,
+      "height": 649,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-960.jpg"
+        },
+        {
+          "width": 976,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-976.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-960.webp"
+        },
+        {
+          "width": 976,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-976.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499471/morgue-freezer-1200.webp"
+        }
+      ]
+    },
+    "12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy.jpeg": {
+      "key": "12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy.jpeg",
+      "imageId": "12493770",
+      "fileName": "WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy.jpeg",
+      "source": "/976/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy.jpeg",
+      "width": 976,
+      "height": 549,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-960.jpg"
+        },
+        {
+          "width": 976,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-976.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-960.webp"
+        },
+        {
+          "width": 976,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-976.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493770/WhatsAppImage2024-10-10at3.44.24PM-Copy2-Copy-1200.webp"
+        }
+      ]
+    },
+    "12509546/soft-pipes.jpg": {
+      "key": "12509546/soft-pipes.jpg",
+      "imageId": "12509546",
+      "fileName": "soft-pipes.jpg",
+      "source": "/800x800,273x273+67+0/12509546/soft-pipes.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509546/soft-pipes-1200.webp"
+        }
+      ]
+    },
+    "12509548/secop-compressors2.jpg": {
+      "key": "12509548/secop-compressors2.jpg",
+      "imageId": "12509548",
+      "fileName": "secop-compressors2.jpg",
+      "source": "/800x800,273x273+67+0/12509548/secop-compressors2.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509548/secop-compressors2-1200.webp"
+        }
+      ]
+    },
+    "12509551/refrigeration-gases.jpg": {
+      "key": "12509551/refrigeration-gases.jpg",
+      "imageId": "12509551",
+      "fileName": "refrigeration-gases.jpg",
+      "source": "/800x800,273x273+67+0/12509551/refrigeration-gases.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509551/refrigeration-gases-1200.webp"
+        }
+      ]
+    },
+    "12509554/refrigeration-fan-motors.jpg": {
+      "key": "12509554/refrigeration-fan-motors.jpg",
+      "imageId": "12509554",
+      "fileName": "refrigeration-fan-motors.jpg",
+      "source": "/800x800,273x273+67+0/12509554/refrigeration-fan-motors.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509554/refrigeration-fan-motors-1200.webp"
+        }
+      ]
+    },
+    "12509556/refrigeration-condenser.jpg": {
+      "key": "12509556/refrigeration-condenser.jpg",
+      "imageId": "12509556",
+      "fileName": "refrigeration-condenser.jpg",
+      "source": "/800x800,273x273+67+0/12509556/refrigeration-condenser.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509556/refrigeration-condenser-1200.webp"
+        }
+      ]
+    },
+    "12509558/pipes.jpg": {
+      "key": "12509558/pipes.jpg",
+      "imageId": "12509558",
+      "fileName": "pipes.jpg",
+      "source": "/800x800,273x273+67+0/12509558/pipes.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509558/pipes-1200.webp"
+        }
+      ]
+    },
+    "12509561/New-Project-1.jpg": {
+      "key": "12509561/New-Project-1.jpg",
+      "imageId": "12509561",
+      "fileName": "New-Project-1.jpg",
+      "source": "/800x800,273x273+67+0/12509561/New-Project-1.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509561/New-Project-1-1200.webp"
+        }
+      ]
+    },
+    "12509562/New-Project.jpg": {
+      "key": "12509562/New-Project.jpg",
+      "imageId": "12509562",
+      "fileName": "New-Project.jpg",
+      "source": "/800x800,273x273+67+0/12509562/New-Project.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509562/New-Project-1200.webp"
+        }
+      ]
+    },
+    "12509564/line-components-oem-1.jpg": {
+      "key": "12509564/line-components-oem-1.jpg",
+      "imageId": "12509564",
+      "fileName": "line-components-oem-1.jpg",
+      "source": "/800x800,273x273+67+0/12509564/line-components-oem-1.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509564/line-components-oem-1-1200.webp"
+        }
+      ]
+    },
+    "12509567/hoses.jpg": {
+      "key": "12509567/hoses.jpg",
+      "imageId": "12509567",
+      "fileName": "hoses.jpg",
+      "source": "/800x800,273x273+67+0/12509567/hoses.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509567/hoses-1200.webp"
+        }
+      ]
+    },
+    "12509570/hard-pipes.jpg": {
+      "key": "12509570/hard-pipes.jpg",
+      "imageId": "12509570",
+      "fileName": "hard-pipes.jpg",
+      "source": "/800x800,273x273+67+0/12509570/hard-pipes.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509570/hard-pipes-1200.webp"
+        }
+      ]
+    },
+    "12509573/fliter-driers.jpg": {
+      "key": "12509573/fliter-driers.jpg",
+      "imageId": "12509573",
+      "fileName": "fliter-driers.jpg",
+      "source": "/800x800,273x273+67+0/12509573/fliter-driers.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509573/fliter-driers-1200.webp"
+        }
+      ]
+    },
+    "12509576/evaporator-coils.jpg": {
+      "key": "12509576/evaporator-coils.jpg",
+      "imageId": "12509576",
+      "fileName": "evaporator-coils.jpg",
+      "source": "/800x800,273x273+67+0/12509576/evaporator-coils.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509576/evaporator-coils-1200.webp"
+        }
+      ]
+    },
+    "12509578/Condensing-Units.jpg": {
+      "key": "12509578/Condensing-Units.jpg",
+      "imageId": "12509578",
+      "fileName": "Condensing-Units.jpg",
+      "source": "/800x800,273x273+67+0/12509578/Condensing-Units.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509578/Condensing-Units-1200.webp"
+        }
+      ]
+    },
+    "12509580/COMPRESSOR.jpg": {
+      "key": "12509580/COMPRESSOR.jpg",
+      "imageId": "12509580",
+      "fileName": "COMPRESSOR.jpg",
+      "source": "/800x800,273x273+67+0/12509580/COMPRESSOR.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509580/COMPRESSOR-1200.webp"
+        }
+      ]
+    },
+    "12509582/cold-room-locks.jpg": {
+      "key": "12509582/cold-room-locks.jpg",
+      "imageId": "12509582",
+      "fileName": "cold-room-locks.jpg",
+      "source": "/800x800,273x273+67+0/12509582/cold-room-locks.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509582/cold-room-locks-1200.webp"
+        }
+      ]
+    },
+    "12509585/cold-room-hinges.jpg": {
+      "key": "12509585/cold-room-hinges.jpg",
+      "imageId": "12509585",
+      "fileName": "cold-room-hinges.jpg",
+      "source": "/800x800,273x273+67+0/12509585/cold-room-hinges.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509585/cold-room-hinges-1200.webp"
+        }
+      ]
+    },
+    "12509588/cold-room-controller.jpg": {
+      "key": "12509588/cold-room-controller.jpg",
+      "imageId": "12509588",
+      "fileName": "cold-room-controller.jpg",
+      "source": "/800x800,273x273+67+0/12509588/cold-room-controller.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509588/cold-room-controller-1200.webp"
+        }
+      ]
+    },
+    "12509591/angled-unit-coolers2.jpg": {
+      "key": "12509591/angled-unit-coolers2.jpg",
+      "imageId": "12509591",
+      "fileName": "angled-unit-coolers2.jpg",
+      "source": "/800x800,273x273+67+0/12509591/angled-unit-coolers2.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509591/angled-unit-coolers2-1200.webp"
+        }
+      ]
+    },
+    "12509594/AC-1.jpg": {
+      "key": "12509594/AC-1.jpg",
+      "imageId": "12509594",
+      "fileName": "AC-1.jpg",
+      "source": "/800x800,273x273+67+0/12509594/AC-1.jpg",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509594/AC-1-1200.webp"
+        }
+      ]
+    },
+    "12509597/5.png": {
+      "key": "12509597/5.png",
+      "imageId": "12509597",
+      "fileName": "5.png",
+      "source": "/800x800,273x273+67+0/12509597/5.png",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509597/5-1200.webp"
+        }
+      ]
+    },
+    "12509598/4.png": {
+      "key": "12509598/4.png",
+      "imageId": "12509598",
+      "fileName": "4.png",
+      "source": "/800x800,273x273+67+0/12509598/4.png",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509598/4-1200.webp"
+        }
+      ]
+    },
+    "12509600/2.png": {
+      "key": "12509600/2.png",
+      "imageId": "12509600",
+      "fileName": "2.png",
+      "source": "/960/12509600/2.png",
+      "width": 408,
+      "height": 273,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509600/2-1200.webp"
+        }
+      ]
+    },
+    "12509603/1.png": {
+      "key": "12509603/1.png",
+      "imageId": "12509603",
+      "fileName": "1.png",
+      "source": "/800x800,273x273+67+0/12509603/1.png",
+      "width": 408,
+      "height": 408,
+      "jpeg": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-408.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 408,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-408.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509603/1-1200.webp"
+        }
+      ]
+    },
+    "13453341/DD1404.png": {
+      "key": "13453341/DD1404.png",
+      "imageId": "13453341",
+      "fileName": "DD1404.png",
+      "source": "/800x800,309x309+245+0/13453341/DD1404.png",
+      "width": 800,
+      "height": 800,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-576.jpg"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-800.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-576.webp"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-800.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453341/DD1404-1200.webp"
+        }
+      ]
+    },
+    "12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview.png": {
+      "key": "12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview.png",
+      "imageId": "12509543",
+      "fileName": "WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview.png",
+      "source": "/800x800,408x408+102+0/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview.png",
+      "width": 612,
+      "height": 612,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-576.jpg"
+        },
+        {
+          "width": 612,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-612.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-576.webp"
+        },
+        {
+          "width": 612,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-612.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12509543/WhatsApp_Image_2024-10-15_at_4.53.45_PM-removebg-preview-1200.webp"
+        }
+      ]
+    },
+    "12499592/Picture1.jpg": {
+      "key": "12499592/Picture1.jpg",
+      "imageId": "12499592",
+      "fileName": "Picture1.jpg",
+      "source": "/1920/12499592/Picture1.jpg",
+      "width": 596,
+      "height": 428,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-576.jpg"
+        },
+        {
+          "width": 596,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-596.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-576.webp"
+        },
+        {
+          "width": 596,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-596.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499592/Picture1-1200.webp"
+        }
+      ]
+    },
+    "12595089/Picture8.jpg": {
+      "key": "12595089/Picture8.jpg",
+      "imageId": "12595089",
+      "fileName": "Picture8.jpg",
+      "source": "/960/12595089/Picture8.jpg",
+      "width": 643,
+      "height": 480,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-576.jpg"
+        },
+        {
+          "width": 643,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-643.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-576.webp"
+        },
+        {
+          "width": 643,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-643.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595089/Picture8-1200.webp"
+        }
+      ]
+    },
+    "12595105/Picture3.jpg": {
+      "key": "12595105/Picture3.jpg",
+      "imageId": "12595105",
+      "fileName": "Picture3.jpg",
+      "source": "/1920/12595105/Picture3.jpg",
+      "width": 656,
+      "height": 480,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-576.jpg"
+        },
+        {
+          "width": 656,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-656.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-576.webp"
+        },
+        {
+          "width": 656,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-656.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595105/Picture3-1200.webp"
+        }
+      ]
+    },
+    "12595081/Picture9.jpg": {
+      "key": "12595081/Picture9.jpg",
+      "imageId": "12595081",
+      "fileName": "Picture9.jpg",
+      "source": "/960/12595081/Picture9.jpg",
+      "width": 670,
+      "height": 480,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-576.jpg"
+        },
+        {
+          "width": 670,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-670.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-576.webp"
+        },
+        {
+          "width": 670,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-670.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595081/Picture9-1200.webp"
+        }
+      ]
+    },
+    "13453385/condensingunitswithreciprocatingcompressor.jpg": {
+      "key": "13453385/condensingunitswithreciprocatingcompressor.jpg",
+      "imageId": "13453385",
+      "fileName": "condensingunitswithreciprocatingcompressor.jpg",
+      "source": "/980/13453385/condensingunitswithreciprocatingcompressor.jpg",
+      "width": 980,
+      "height": 685,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-960.jpg"
+        },
+        {
+          "width": 980,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-980.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-960.webp"
+        },
+        {
+          "width": 980,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-980.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453385/condensingunitswithreciprocatingcompressor-1200.webp"
+        }
+      ]
+    },
+    "12499589/Picture3.jpg": {
+      "key": "12499589/Picture3.jpg",
+      "imageId": "12499589",
+      "fileName": "Picture3.jpg",
+      "source": "/1920/12499589/Picture3.jpg",
+      "width": 737,
+      "height": 617,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-576.jpg"
+        },
+        {
+          "width": 737,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-737.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-576.webp"
+        },
+        {
+          "width": 737,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-737.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499589/Picture3-1200.webp"
+        }
+      ]
+    },
+    "12595101/Picture4.jpg": {
+      "key": "12595101/Picture4.jpg",
+      "imageId": "12595101",
+      "fileName": "Picture4.jpg",
+      "source": "/1920/12595101/Picture4.jpg",
+      "width": 734,
+      "height": 480,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-576.jpg"
+        },
+        {
+          "width": 734,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-734.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-576.webp"
+        },
+        {
+          "width": 734,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-734.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595101/Picture4-1200.webp"
+        }
+      ]
+    },
+    "13453386/Condensingunitswithsemi-hermeticcompressor.jpg": {
+      "key": "13453386/Condensingunitswithsemi-hermeticcompressor.jpg",
+      "imageId": "13453386",
+      "fileName": "Condensingunitswithsemi-hermeticcompressor.jpg",
+      "source": "/904,1012x645+17+47/13453386/Condensingunitswithsemi-hermeticcompressor.jpg",
+      "width": 904,
+      "height": 576,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-576.jpg"
+        },
+        {
+          "width": 904,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-904.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-576.webp"
+        },
+        {
+          "width": 904,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-904.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453386/Condensingunitswithsemi-hermeticcompressor-1200.webp"
+        }
+      ]
+    },
+    "13453388/CondensingUnits.jpg": {
+      "key": "13453388/CondensingUnits.jpg",
+      "imageId": "13453388",
+      "fileName": "CondensingUnits.jpg",
+      "source": "/800x800,740x740+158+0/13453388/CondensingUnits.jpg",
+      "width": 800,
+      "height": 800,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-576.jpg"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-800.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-576.webp"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-800.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453388/CondensingUnits-1200.webp"
+        }
+      ]
+    },
+    "12547830/cold-room-with-freeze-768x512.jpg": {
+      "key": "12547830/cold-room-with-freeze-768x512.jpg",
+      "imageId": "12547830",
+      "fileName": "cold-room-with-freeze-768x512.jpg",
+      "source": "/960/12547830/cold-room-with-freeze-768x512.jpg",
+      "width": 768,
+      "height": 512,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-576.jpg"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-768.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-576.webp"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-768.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12547830/cold-room-with-freeze-768x512-1200.webp"
+        }
+      ]
+    },
+    "12595097/Picture6.jpg": {
+      "key": "12595097/Picture6.jpg",
+      "imageId": "12595097",
+      "fileName": "Picture6.jpg",
+      "source": "/1920/12595097/Picture6.jpg",
+      "width": 817,
+      "height": 480,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-576.jpg"
+        },
+        {
+          "width": 817,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-817.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-576.webp"
+        },
+        {
+          "width": 817,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-817.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595097/Picture6-1200.webp"
+        }
+      ]
+    },
+    "12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy.jpeg": {
+      "key": "12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy.jpeg",
+      "imageId": "12493720",
+      "fileName": "WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy.jpeg",
+      "source": "/1920/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy.jpeg",
+      "width": 1600,
+      "height": 900,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-1200.jpg"
+        },
+        {
+          "width": 1600,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-1600.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-1200.webp"
+        },
+        {
+          "width": 1600,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493720/WhatsAppImage2024-10-10at3.43.59PM-Copy2-Copy-1600.webp"
+        }
+      ]
+    },
+    "12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2.jpeg": {
+      "key": "12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2.jpeg",
+      "imageId": "12493733",
+      "fileName": "WhatsAppImage2024-11-05at2.50.50PM-Copy2.jpeg",
+      "source": "/1920/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2.jpeg",
+      "width": 1600,
+      "height": 900,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-1200.jpg"
+        },
+        {
+          "width": 1600,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-1600.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-1200.webp"
+        },
+        {
+          "width": 1600,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12493733/WhatsAppImage2024-11-05at2.50.50PM-Copy2-1600.webp"
+        }
+      ]
+    },
+    "12496906/testing-maintainance-of-ac-black-man.jpg": {
+      "key": "12496906/testing-maintainance-of-ac-black-man.jpg",
+      "imageId": "12496906",
+      "fileName": "testing-maintainance-of-ac-black-man.jpg",
+      "source": "/1920/12496906/testing-maintainance-of-ac-black-man.jpg",
+      "width": 1224,
+      "height": 816,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-1200.jpg"
+        },
+        {
+          "width": 1224,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-1224.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-1200.webp"
+        },
+        {
+          "width": 1224,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496906/testing-maintainance-of-ac-black-man-1224.webp"
+        }
+      ]
+    },
+    "12496910/air-conditioners1.jpg": {
+      "key": "12496910/air-conditioners1.jpg",
+      "imageId": "12496910",
+      "fileName": "air-conditioners1.jpg",
+      "source": "/1920/12496910/air-conditioners1.jpg",
+      "width": 1920,
+      "height": 1428,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-1200.jpg"
+        },
+        {
+          "width": 1920,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-1920.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-1200.webp"
+        },
+        {
+          "width": 1920,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12496910/air-conditioners1-1920.webp"
+        }
+      ]
+    },
+    "12499591/Picture2.jpg": {
+      "key": "12499591/Picture2.jpg",
+      "imageId": "12499591",
+      "fileName": "Picture2.jpg",
+      "source": "/1920/12499591/Picture2.jpg",
+      "width": 793,
+      "height": 499,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-576.jpg"
+        },
+        {
+          "width": 793,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-793.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-576.webp"
+        },
+        {
+          "width": 793,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-793.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499591/Picture2-1200.webp"
+        }
+      ]
+    },
+    "12499731/truck-with-cold-room.jpg": {
+      "key": "12499731/truck-with-cold-room.jpg",
+      "imageId": "12499731",
+      "fileName": "truck-with-cold-room.jpg",
+      "source": "/1920/12499731/truck-with-cold-room.jpg",
+      "width": 1224,
+      "height": 816,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-1200.jpg"
+        },
+        {
+          "width": 1224,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-1224.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-1200.webp"
+        },
+        {
+          "width": 1224,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499731/truck-with-cold-room-1224.webp"
+        }
+      ]
+    },
+    "12499733/cold-room-with-freeze.jpg": {
+      "key": "12499733/cold-room-with-freeze.jpg",
+      "imageId": "12499733",
+      "fileName": "cold-room-with-freeze.jpg",
+      "source": "/1920/12499733/cold-room-with-freeze.jpg",
+      "width": 1224,
+      "height": 816,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-1200.jpg"
+        },
+        {
+          "width": 1224,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-1224.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-1200.webp"
+        },
+        {
+          "width": 1224,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12499733/cold-room-with-freeze-1224.webp"
+        }
+      ]
+    },
+    "12522075/Picture2.jpg": {
+      "key": "12522075/Picture2.jpg",
+      "imageId": "12522075",
+      "fileName": "Picture2.jpg",
+      "source": "/960/12522075/Picture2.jpg",
+      "width": 656,
+      "height": 480,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-576.jpg"
+        },
+        {
+          "width": 656,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-656.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-576.webp"
+        },
+        {
+          "width": 656,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-656.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522075/Picture2-1200.webp"
+        }
+      ]
+    },
+    "12522077/Picture3.jpg": {
+      "key": "12522077/Picture3.jpg",
+      "imageId": "12522077",
+      "fileName": "Picture3.jpg",
+      "source": "/960/12522077/Picture3.jpg",
+      "width": 734,
+      "height": 525,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-576.jpg"
+        },
+        {
+          "width": 734,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-734.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-576.webp"
+        },
+        {
+          "width": 734,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-734.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12522077/Picture3-1200.webp"
+        }
+      ]
+    },
+    "12563184/New-Project-3-768x512.png": {
+      "key": "12563184/New-Project-3-768x512.png",
+      "imageId": "12563184",
+      "fileName": "New-Project-3-768x512.png",
+      "source": "/960/12563184/New-Project-3-768x512.png",
+      "width": 768,
+      "height": 512,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-576.jpg"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-768.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-576.webp"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-768.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563184/New-Project-3-768x512-1200.webp"
+        }
+      ]
+    },
+    "12563246/New-Project-5-768x512.png": {
+      "key": "12563246/New-Project-5-768x512.png",
+      "imageId": "12563246",
+      "fileName": "New-Project-5-768x512.png",
+      "source": "/960/12563246/New-Project-5-768x512.png",
+      "width": 768,
+      "height": 512,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-576.jpg"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-768.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-576.webp"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-768.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563246/New-Project-5-768x512-1200.webp"
+        }
+      ]
+    },
+    "12563303/New-Project-768x512.png": {
+      "key": "12563303/New-Project-768x512.png",
+      "imageId": "12563303",
+      "fileName": "New-Project-768x512.png",
+      "source": "/960/12563303/New-Project-768x512.png",
+      "width": 768,
+      "height": 512,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-576.jpg"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-768.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-576.webp"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-768.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563303/New-Project-768x512-1200.webp"
+        }
+      ]
+    },
+    "12563305/New-Project-10-768x512.png": {
+      "key": "12563305/New-Project-10-768x512.png",
+      "imageId": "12563305",
+      "fileName": "New-Project-10-768x512.png",
+      "source": "/960/12563305/New-Project-10-768x512.png",
+      "width": 768,
+      "height": 512,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-576.jpg"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-768.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-576.webp"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-768.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563305/New-Project-10-768x512-1200.webp"
+        }
+      ]
+    },
+    "12563309/New-Project-9-768x512.png": {
+      "key": "12563309/New-Project-9-768x512.png",
+      "imageId": "12563309",
+      "fileName": "New-Project-9-768x512.png",
+      "source": "/960/12563309/New-Project-9-768x512.png",
+      "width": 768,
+      "height": 512,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-576.jpg"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-768.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-576.webp"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-768.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563309/New-Project-9-768x512-1200.webp"
+        }
+      ]
+    },
+    "12563314/New-Project-8-768x512.png": {
+      "key": "12563314/New-Project-8-768x512.png",
+      "imageId": "12563314",
+      "fileName": "New-Project-8-768x512.png",
+      "source": "/960/12563314/New-Project-8-768x512.png",
+      "width": 768,
+      "height": 512,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-576.jpg"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-768.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-576.webp"
+        },
+        {
+          "width": 768,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-768.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12563314/New-Project-8-768x512-1200.webp"
+        }
+      ]
+    },
+    "12571379/IMG-20241217-WA0052.jpg": {
+      "key": "12571379/IMG-20241217-WA0052.jpg",
+      "imageId": "12571379",
+      "fileName": "IMG-20241217-WA0052.jpg",
+      "source": "/960/12571379/IMG-20241217-WA0052.jpg",
+      "width": 900,
+      "height": 1600,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-576.jpg"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-900.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-576.webp"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-900.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571379/IMG-20241217-WA0052-1200.webp"
+        }
+      ]
+    },
+    "12571383/IMG-20241217-WA0050.jpg": {
+      "key": "12571383/IMG-20241217-WA0050.jpg",
+      "imageId": "12571383",
+      "fileName": "IMG-20241217-WA0050.jpg",
+      "source": "/960/12571383/IMG-20241217-WA0050.jpg",
+      "width": 900,
+      "height": 1600,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-576.jpg"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-900.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-576.webp"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-900.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571383/IMG-20241217-WA0050-1200.webp"
+        }
+      ]
+    },
+    "12571389/IMG-20241217-WA0036.jpg": {
+      "key": "12571389/IMG-20241217-WA0036.jpg",
+      "imageId": "12571389",
+      "fileName": "IMG-20241217-WA0036.jpg",
+      "source": "/960/12571389/IMG-20241217-WA0036.jpg",
+      "width": 900,
+      "height": 1600,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-576.jpg"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-900.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-576.webp"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-900.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571389/IMG-20241217-WA0036-1200.webp"
+        }
+      ]
+    },
+    "12571393/IMG-20241217-WA0014.jpg": {
+      "key": "12571393/IMG-20241217-WA0014.jpg",
+      "imageId": "12571393",
+      "fileName": "IMG-20241217-WA0014.jpg",
+      "source": "/960/12571393/IMG-20241217-WA0014.jpg",
+      "width": 960,
+      "height": 1276,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571393/IMG-20241217-WA0014-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571393/IMG-20241217-WA0014-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571393/IMG-20241217-WA0014-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571393/IMG-20241217-WA0014-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571393/IMG-20241217-WA0014-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571393/IMG-20241217-WA0014-1200.webp"
+        }
+      ]
+    },
+    "12571394/IMG-20241217-WA0013.jpg": {
+      "key": "12571394/IMG-20241217-WA0013.jpg",
+      "imageId": "12571394",
+      "fileName": "IMG-20241217-WA0013.jpg",
+      "source": "/960/12571394/IMG-20241217-WA0013.jpg",
+      "width": 960,
+      "height": 1276,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571394/IMG-20241217-WA0013-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571394/IMG-20241217-WA0013-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571394/IMG-20241217-WA0013-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571394/IMG-20241217-WA0013-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571394/IMG-20241217-WA0013-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571394/IMG-20241217-WA0013-1200.webp"
+        }
+      ]
+    },
+    "12571397/IMG-20241217-WA0012.jpg": {
+      "key": "12571397/IMG-20241217-WA0012.jpg",
+      "imageId": "12571397",
+      "fileName": "IMG-20241217-WA0012.jpg",
+      "source": "/960/12571397/IMG-20241217-WA0012.jpg",
+      "width": 960,
+      "height": 1276,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571397/IMG-20241217-WA0012-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571397/IMG-20241217-WA0012-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571397/IMG-20241217-WA0012-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571397/IMG-20241217-WA0012-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571397/IMG-20241217-WA0012-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571397/IMG-20241217-WA0012-1200.webp"
+        }
+      ]
+    },
+    "12571399/IMG-20241217-WA0011.jpg": {
+      "key": "12571399/IMG-20241217-WA0011.jpg",
+      "imageId": "12571399",
+      "fileName": "IMG-20241217-WA0011.jpg",
+      "source": "/960/12571399/IMG-20241217-WA0011.jpg",
+      "width": 960,
+      "height": 722,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571399/IMG-20241217-WA0011-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571399/IMG-20241217-WA0011-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571399/IMG-20241217-WA0011-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571399/IMG-20241217-WA0011-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571399/IMG-20241217-WA0011-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571399/IMG-20241217-WA0011-1200.webp"
+        }
+      ]
+    },
+    "12571965/IMG-20241217-WA0055.jpg": {
+      "key": "12571965/IMG-20241217-WA0055.jpg",
+      "imageId": "12571965",
+      "fileName": "IMG-20241217-WA0055.jpg",
+      "source": "/960/12571965/IMG-20241217-WA0055.jpg",
+      "width": 960,
+      "height": 540,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571965/IMG-20241217-WA0055-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571965/IMG-20241217-WA0055-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571965/IMG-20241217-WA0055-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571965/IMG-20241217-WA0055-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571965/IMG-20241217-WA0055-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12571965/IMG-20241217-WA0055-1200.webp"
+        }
+      ]
+    },
+    "12572013/IMG-20241217-WA0040.jpg": {
+      "key": "12572013/IMG-20241217-WA0040.jpg",
+      "imageId": "12572013",
+      "fileName": "IMG-20241217-WA0040.jpg",
+      "source": "/960/12572013/IMG-20241217-WA0040.jpg",
+      "width": 960,
+      "height": 540,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12572013/IMG-20241217-WA0040-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12572013/IMG-20241217-WA0040-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12572013/IMG-20241217-WA0040-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12572013/IMG-20241217-WA0040-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12572013/IMG-20241217-WA0040-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12572013/IMG-20241217-WA0040-1200.webp"
+        }
+      ]
+    },
+    "12595108/Picture2.jpg": {
+      "key": "12595108/Picture2.jpg",
+      "imageId": "12595108",
+      "fileName": "Picture2.jpg",
+      "source": "/1920/12595108/Picture2.jpg",
+      "width": 964,
+      "height": 480,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-960.jpg"
+        },
+        {
+          "width": 964,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-964.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-960.webp"
+        },
+        {
+          "width": 964,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-964.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12595108/Picture2-1200.webp"
+        }
+      ]
+    },
+    "13453320/1.2.jpg": {
+      "key": "13453320/1.2.jpg",
+      "imageId": "13453320",
+      "fileName": "1.2.jpg",
+      "source": "/800x800/13453320/1.2.jpg",
+      "width": 800,
+      "height": 800,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-576.jpg"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-800.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-576.webp"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-800.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453320/1.2-1200.webp"
+        }
+      ]
+    },
+    "13453323/-2.jpg": {
+      "key": "13453323/-2.jpg",
+      "imageId": "13453323",
+      "fileName": "-2.jpg",
+      "source": "/800x800/13453323/-2.jpg",
+      "width": 800,
+      "height": 800,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-576.jpg"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-800.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-576.webp"
+        },
+        {
+          "width": 800,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-800.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13453323/-2-1200.webp"
+        }
+      ]
+    },
+    "13962654/Midea_LC_CassetteAC-2.jpg": {
+      "key": "13962654/Midea_LC_CassetteAC-2.jpg",
+      "imageId": "13962654",
+      "fileName": "Midea_LC_CassetteAC-2.jpg",
+      "source": "/1920/13962654/Midea_LC_CassetteAC-2.jpg",
+      "width": 900,
+      "height": 600,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-576.jpg"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-900.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-576.webp"
+        },
+        {
+          "width": 900,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-900.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962654/Midea_LC_CassetteAC-2-1200.webp"
+        }
+      ]
+    },
+    "13963464/20240327-200635-scaled.jpeg": {
+      "key": "13963464/20240327-200635-scaled.jpeg",
+      "imageId": "13963464",
+      "fileName": "20240327-200635-scaled.jpeg",
+      "source": "/1920/13963464/20240327-200635-scaled.jpeg",
+      "width": 1920,
+      "height": 1280,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-1200.jpg"
+        },
+        {
+          "width": 1920,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-1920.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-1200.webp"
+        },
+        {
+          "width": 1920,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13963464/20240327-200635-scaled-1920.webp"
+        }
+      ]
+    },
+    "12423352/logo1.png": {
+      "key": "12423352/logo1.png",
+      "imageId": "12423352",
+      "fileName": "logo1.png",
+      "source": "/1200x630/12423352/logo1.png",
+      "width": 1600,
+      "height": 630,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-1200.jpg"
+        },
+        {
+          "width": 1600,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-1600.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-1200.webp"
+        },
+        {
+          "width": 1600,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12423352/logo1-1600.webp"
+        }
+      ]
+    },
+    "13962692/Picture1-removebg-preview.png": {
+      "key": "13962692/Picture1-removebg-preview.png",
+      "imageId": "13962692",
+      "fileName": "Picture1-removebg-preview.png",
+      "source": "/366/13962692/Picture1-removebg-preview.png",
+      "width": 366,
+      "height": 137,
+      "jpeg": [
+        {
+          "width": 366,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-366.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 366,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-366.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/13962692/Picture1-removebg-preview-1200.webp"
+        }
+      ]
+    },
+    "12559171/logo1.png": {
+      "key": "12559171/logo1.png",
+      "imageId": "12559171",
+      "fileName": "logo1.png",
+      "source": "/96x96/12559171/logo1.png",
+      "width": 96,
+      "height": 96,
+      "jpeg": [
+        {
+          "width": 96,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-96.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 96,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-96.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/12559171/logo1-1200.webp"
+        }
+      ]
+    },
+    "5283903/pexels-photo-860379.jpeg": {
+      "key": "5283903/pexels-photo-860379.jpeg",
+      "imageId": "5283903",
+      "fileName": "pexels-photo-860379.jpeg",
+      "source": "/976/5283903/pexels-photo-860379.jpeg",
+      "width": 976,
+      "height": 628,
+      "jpeg": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-960.jpg"
+        },
+        {
+          "width": 976,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-976.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-960.webp"
+        },
+        {
+          "width": 976,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-976.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/5283903/pexels-photo-860379-1200.webp"
+        }
+      ]
+    },
+    "shared/dummy.png": {
+      "key": "shared/dummy.png",
+      "imageId": "shared",
+      "fileName": "dummy.png",
+      "source": "/dummy.png",
+      "width": 400,
+      "height": 225,
+      "jpeg": [
+        {
+          "width": 400,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-400.jpg"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-576.jpg"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-960.jpg"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-1200.jpg"
+        }
+      ],
+      "webp": [
+        {
+          "width": 400,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-400.webp"
+        },
+        {
+          "width": 576,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-576.webp"
+        },
+        {
+          "width": 960,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-960.webp"
+        },
+        {
+          "width": 1200,
+          "url": "https://media.bustarefrigeration.co.ke/images/optimized/shared/dummy-1200.webp"
+        }
+      ]
+    }
+  }
+}

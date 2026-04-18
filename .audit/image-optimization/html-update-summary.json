@@ -1,0 +1,27 @@
+[
+  {
+    "file": "index.html",
+    "replacements": 0,
+    "skipped": false
+  },
+  {
+    "file": "projects-clients/index.html",
+    "replacements": 0,
+    "skipped": false
+  },
+  {
+    "file": "spares-components/index.html",
+    "replacements": 0,
+    "skipped": false
+  },
+  {
+    "file": "privacy/index.html",
+    "replacements": 0,
+    "skipped": false
+  },
+  {
+    "file": "legal-notice/index.html",
+    "replacements": 0,
+    "skipped": false
+  }
+]

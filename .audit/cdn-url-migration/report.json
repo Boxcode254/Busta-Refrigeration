@@ -1,0 +1,31 @@
+{
+  "generatedAtUtc": "2026-04-17T20:04:21.830Z",
+  "root": "/home/natasha/Documents/MY PROJECTS/Website Projects/Busta Refrigeration - Revamped",
+  "baseUrl": "https://media.bustarefrigeration.co.ke",
+  "writeMode": false,
+  "scannedFiles": 5,
+  "changedFileCount": 5,
+  "totalReplacements": 1009,
+  "files": [
+    {
+      "file": "index.html",
+      "replacements": 118
+    },
+    {
+      "file": "legal-notice/index.html",
+      "replacements": 5
+    },
+    {
+      "file": "privacy/index.html",
+      "replacements": 5
+    },
+    {
+      "file": "projects-clients/index.html",
+      "replacements": 335
+    },
+    {
+      "file": "spares-components/index.html",
+      "replacements": 546
+    }
+  ]
+}

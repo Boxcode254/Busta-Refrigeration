@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@sentry/browser": "^8.35.0",
+    "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "recover:sources": "node scripts/recover_sources.js",
+    "check:parity": "node scripts/check_recovered_parity.js",
+    "dev": "vite",
+    "build": "vite build",
+    "build:strict-maps": "vite build && node scripts/ensure_css_sourcemaps.js",
+    "preview": "vite preview",
+    "package:cpanel": "npm run build:strict-maps && node scripts/package_cpanel_zip.js",
+    "format:recovered": "prettier --write \"src/**/*.{html,css,js}\"",
+    "images:optimize": "node scripts/image_optimize_pipeline.js",
+    "images:optimize:update-html": "node scripts/image_optimize_pipeline.js --update-html",
+    "images:optimize:all": "node scripts/image_optimize_pipeline.js --update-html --clean",
+    "images:cdn:migrate:dry": "node scripts/image_cdn_migrate.js",
+    "images:cdn:migrate": "node scripts/image_cdn_migrate.js --write"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "js-beautify": "^1.15.4",
+    "postcss": "^8.5.6",
+    "prettier": "^3.6.2",
+    "php-parser": "^3.5.1",
+    "sharp": "^0.34.5",
+    "vite": "^7.1.3",
+    "vite-plugin-static-copy": "^3.1.4"
+  }
+}

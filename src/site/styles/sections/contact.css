@@ -1,0 +1,413 @@
+/* ============================================================
+   CONTACT SECTION — Prompt 10
+   Scope: .busta-contact
+   ============================================================ */
+
+/* ── Section wrapper ── */
+.busta-contact {
+  background-color: var(--clr-dark-alt);
+  padding: 80px 0 0;
+  overflow: hidden;
+}
+
+/* ── Two-column grid ── */
+.busta-contact-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 64px;
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 32px 80px;
+  align-items: start;
+}
+
+/* ════════════════════════════════════════
+   LEFT COLUMN — info
+════════════════════════════════════════ */
+.busta-contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.busta-contact-overline {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--clr-yellow);
+  margin: 0;
+}
+
+.busta-contact-heading {
+  font-size: clamp(1.6rem, 3vw, 2.25rem);
+  font-weight: 800;
+  line-height: 1.15;
+  color: #ffffff;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+/* ── Detail list ── */
+.busta-contact-details {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.busta-contact-detail {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.busta-contact-detail a {
+  color: rgba(255, 255, 255, 0.78);
+  text-decoration: none;
+  transition: color var(--transition-fast, 0.2s ease);
+}
+
+.busta-contact-detail a:hover,
+.busta-contact-detail a:focus-visible {
+  color: var(--clr-yellow);
+  text-decoration: underline;
+}
+
+/* ── Icon circles ── */
+.busta-contact-icon {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(251, 190, 26, 0.12);
+  border: 1px solid rgba(251, 190, 26, 0.25);
+  color: var(--clr-yellow);
+  margin-top: 2px;
+}
+
+.busta-contact-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* ── Profile download button ── */
+.busta-contact-profile-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 22px;
+  background-color: transparent;
+  border: 1.5px solid var(--clr-yellow);
+  border-radius: var(--radius-sm, 4px);
+  color: var(--clr-yellow);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background-color var(--transition-fast, 0.2s ease),
+              color var(--transition-fast, 0.2s ease);
+  align-self: flex-start;
+}
+
+.busta-contact-profile-btn svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+.busta-contact-profile-btn:hover,
+.busta-contact-profile-btn:focus-visible {
+  background-color: var(--clr-yellow);
+  color: var(--clr-dark);
+  outline: none;
+}
+
+.busta-contact-profile-btn:focus-visible {
+  box-shadow: 0 0 0 3px var(--focus-ring, rgba(251, 190, 26, 0.45));
+}
+
+/* ════════════════════════════════════════
+   RIGHT COLUMN — form
+════════════════════════════════════════ */
+.busta-contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Reset vendor container layout inside our column */
+.busta-contact .ed-element.ed-container.preset-contact-form-v3-row,
+.busta-contact .ed-element.ed-container.preset-contact-form-v3-row > .inner {
+  all: unset;
+  display: block;
+}
+
+/* ── Form container card ── */
+.busta-contact .ed-form-container {
+  background-color: var(--clr-dark);
+  border: 1px solid var(--clr-dark-border, #252b32);
+  border-radius: var(--radius-md, 8px);
+  padding: 32px;
+}
+
+/* ── Row layout: two fields side by side ── */
+.busta-contact .ed-form-container form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.busta-contact .ed-form-input,
+.busta-contact .ed-form-email {
+  flex: 1 1 calc(50% - 8px);
+  min-width: 140px;
+}
+
+.busta-contact .ed-form-textarea,
+.busta-contact .ed-form-checkbox,
+.busta-contact .ed-form-captcha,
+.busta-contact .ed-form-button,
+.busta-contact .ed-element.ed-map {
+  flex: 1 1 100%;
+}
+
+/* ── Field resets ── */
+.busta-contact .ed-form-input input,
+.busta-contact .ed-form-email input,
+.busta-contact .ed-form-textarea textarea,
+.busta-contact .ed-form-captcha .input input[type="text"] {
+  width: 100%;
+  background-color: var(--clr-dark-alt);
+  border: 1px solid var(--clr-dark-border, #252b32);
+  border-radius: var(--radius-sm, 4px);
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.9rem;
+  padding: 11px 14px;
+  transition: border-color var(--transition-fast, 0.2s ease),
+              box-shadow var(--transition-fast, 0.2s ease);
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.busta-contact .ed-form-input input::placeholder,
+.busta-contact .ed-form-email input::placeholder,
+.busta-contact .ed-form-textarea textarea::placeholder,
+.busta-contact .ed-form-captcha .input input::placeholder {
+  color: rgba(255, 255, 255, 0.35);
+}
+
+.busta-contact .ed-form-input input:focus,
+.busta-contact .ed-form-email input:focus,
+.busta-contact .ed-form-textarea textarea:focus,
+.busta-contact .ed-form-captcha .input input:focus {
+  outline: none;
+  border-color: var(--clr-yellow);
+  box-shadow: 0 0 0 3px var(--focus-ring, rgba(251, 190, 26, 0.25));
+}
+
+.busta-contact .ed-form-input input[aria-invalid="true"],
+.busta-contact .ed-form-email input[aria-invalid="true"],
+.busta-contact .ed-form-textarea textarea[aria-invalid="true"],
+.busta-contact .ed-form-captcha .input input[aria-invalid="true"] {
+  border-color: #e55353;
+  box-shadow: 0 0 0 3px rgba(229, 83, 83, 0.2);
+}
+
+/* ── Textarea ── */
+.busta-contact .ed-form-textarea textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+/* ── Checkbox ── */
+.busta-contact .ed-form-checkbox .checkbox_list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.busta-contact .ed-form-checkbox .checkbox_list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.busta-contact .ed-form-checkbox input[type="checkbox"] {
+  flex-shrink: 0;
+  margin-top: 2px;
+  accent-color: var(--clr-yellow);
+  width: 15px;
+  height: 15px;
+}
+
+.busta-contact .ed-form-checkbox p {
+  margin: 0;
+}
+
+.busta-contact .ed-form-checkbox a {
+  color: var(--clr-yellow);
+  text-decoration: none;
+}
+
+.busta-contact .ed-form-checkbox a:hover {
+  text-decoration: underline;
+}
+
+/* ── Captcha ── */
+.busta-contact .ed-form-captcha {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.busta-contact .ed-form-captcha .image img {
+  border-radius: var(--radius-sm, 4px);
+  border: 1px solid var(--clr-dark-border, #252b32);
+  height: 40px;
+  width: auto;
+  display: block;
+}
+
+.busta-contact .ed-form-captcha .input {
+  flex: 1;
+  min-width: 120px;
+}
+
+.busta-contact .ed-form-captcha .regenerate {
+  font-size: 0.75rem;
+}
+
+.busta-contact .ed-form-captcha .regenerate a {
+  color: rgba(255, 255, 255, 0.45);
+  text-decoration: underline;
+}
+
+.busta-contact .ed-form-captcha .regenerate a:hover {
+  color: var(--clr-yellow);
+}
+
+/* ── Submit button ── */
+.busta-contact .ed-form-button button {
+  width: 100%;
+  padding: 14px 28px;
+  background-color: var(--clr-yellow);
+  border: none;
+  border-radius: var(--radius-sm, 4px);
+  color: var(--clr-dark);
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color var(--transition-fast, 0.2s ease),
+              opacity var(--transition-fast, 0.2s ease);
+}
+
+.busta-contact .ed-form-button button:hover:not(:disabled) {
+  background-color: var(--clr-yellow-dark, #d9a500);
+}
+
+.busta-contact .ed-form-button button:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--focus-ring, rgba(251, 190, 26, 0.45));
+}
+
+.busta-contact .ed-form-button button:disabled,
+.busta-contact .ed-form-button button.is-loading {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+
+/* ── Success / failure messages ── */
+.busta-contact .wv-message {
+  border-radius: var(--radius-sm, 4px);
+  padding: 12px 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-top: 4px;
+}
+
+.busta-contact .wv-message.wv-success {
+  background-color: rgba(40, 167, 69, 0.15);
+  border: 1px solid rgba(40, 167, 69, 0.5);
+  color: #6dd68e;
+}
+
+.busta-contact .wv-message.wv-failure {
+  background-color: rgba(229, 83, 83, 0.12);
+  border: 1px solid rgba(229, 83, 83, 0.4);
+  color: #f08080;
+}
+
+/* ── Map ── */
+.busta-contact .ed-element.ed-map {
+  border-radius: var(--radius-sm, 4px);
+  overflow: hidden;
+  border: 1px solid var(--clr-dark-border, #252b32);
+  margin-top: 4px;
+}
+
+.busta-contact .ed-element.ed-map .map-canvas {
+  height: 220px !important;
+  width: 100%;
+}
+
+/* ── Validation error text ── */
+.busta-contact .form-error-message {
+  color: #f08080;
+  font-size: 0.78rem;
+  margin: 4px 0 0;
+}
+
+/* ════════════════════════════════════════
+   RESPONSIVE — tablet / mobile
+════════════════════════════════════════ */
+@media (max-width: 860px) {
+  .busta-contact-inner {
+    grid-template-columns: 1fr;
+    gap: 48px;
+    padding: 0 24px 64px;
+  }
+
+  /* info above form on mobile */
+  .busta-contact-info {
+    order: -1;
+  }
+
+  .busta-contact-heading {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .busta-contact {
+    padding-top: 60px;
+  }
+
+  .busta-contact-inner {
+    padding: 0 16px 48px;
+    gap: 36px;
+  }
+
+  .busta-contact .ed-form-container {
+    padding: 20px 16px;
+  }
+
+  .busta-contact .ed-form-input,
+  .busta-contact .ed-form-email {
+    flex: 1 1 100%;
+  }
+}
