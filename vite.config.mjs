@@ -71,7 +71,14 @@ function devRouteAndAssetParityPlugin() {
 
         next();
       });
-    },
+    }
+  };
+}
+
+// Rewrite all CDN image URLs to local paths for both dev and build
+function cdnToLocalPlugin() {
+  return {
+    name: "cdn-to-local",
     transformIndexHtml(html) {
       return html.replaceAll(`${DEV_CDN_HOST}/images/`, "/images/");
     }
@@ -103,6 +110,7 @@ export default defineConfig({
   },
   plugins: [
     devRouteAndAssetParityPlugin(),
+    cdnToLocalPlugin(),
     viteStaticCopy({
       targets: staticTargets
     })
