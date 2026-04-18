@@ -1,4 +1,5 @@
 import path from "node:path";
+import fs from "node:fs";
 import { defineConfig } from "vite";
 import { viteStaticCopy } from "vite-plugin-static-copy";
 
@@ -25,10 +26,13 @@ const staticTargets = [
   "images",
   "webcard",
   "vendor"
-].map((entry) => ({
-  src: path.resolve(projectRoot, entry),
-  dest: "."
-}));
+]
+  .map((entry) => path.resolve(projectRoot, entry))
+  .filter((absolutePath) => fs.existsSync(absolutePath))
+  .map((absolutePath) => ({
+    src: absolutePath,
+    dest: "."
+  }));
 
 // Copy section/page CSS files that are served as runtime @import urls
 staticTargets.push({
