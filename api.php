@@ -20,7 +20,7 @@ $contentType = '';
 
 $response = '';
 
-const DEFAULT_DESTINATION_EMAIL = 'rpbucrur@bustarefrigeration.co.ke';
+const DEFAULT_DESTINATION_EMAIL = 'mailer@bustarefrigeration.co.ke';
 const CSRF_SESSION_KEY = 'form_csrf_token';
 const MAX_UPLOAD_SIZE_BYTES = 5242880; // 5 MB
 
